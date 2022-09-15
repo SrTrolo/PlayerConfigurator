@@ -1,0 +1,929 @@
+fileFormatVersion: 2
+guid: a8bae9dfda31b254bb750c52d391a2e9
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: CATRigAnkleBone001
+  - first:
+      1: 100002
+    second: CATRigAnkleBone001 1
+  - first:
+      1: 100004
+    second: CATRigAnkleBone001Gizmo
+  - first:
+      1: 100006
+    second: CATRigAnkleBone001Gizmo 1
+  - first:
+      1: 100008
+    second: CATRigHub001
+  - first:
+      1: 100010
+    second: CATRigHub001Gizmo
+  - first:
+      1: 100012
+    second: CATRigHub002
+  - first:
+      1: 100014
+    second: CATRigHub002Gizmo
+  - first:
+      1: 100016
+    second: CATRigHub003
+  - first:
+      1: 100018
+    second: CATRigHub003Bone001
+  - first:
+      1: 100020
+    second: CATRigHub003Bone001Gizmo
+  - first:
+      1: 100022
+    second: CATRigHub003Bone002
+  - first:
+      1: 100024
+    second: CATRigHub003Bone002Bone001
+  - first:
+      1: 100026
+    second: CATRigHub003Bone002Bone001 1
+  - first:
+      1: 100028
+    second: CATRigHub003Bone002Bone001Gizmo
+  - first:
+      1: 100030
+    second: CATRigHub003Bone002Bone001Gizmo 1
+  - first:
+      1: 100032
+    second: CATRigHub003Bone002Gizmo
+  - first:
+      1: 100034
+    second: CATRigHub003Bone003
+  - first:
+      1: 100036
+    second: CATRigHub003Bone003Gizmo
+  - first:
+      1: 100038
+    second: CATRigHub003Bone004
+  - first:
+      1: 100040
+    second: CATRigHub003Bone004Gizmo
+  - first:
+      1: 100042
+    second: CATRigHub003Bone007
+  - first:
+      1: 100044
+    second: CATRigHub003Bone008
+  - first:
+      1: 100046
+    second: CATRigHub003Bone009
+  - first:
+      1: 100048
+    second: CATRigHub003Bone010
+  - first:
+      1: 100050
+    second: CATRigHub003Gizmo
+  - first:
+      1: 100052
+    second: CATRigLArm1
+  - first:
+      1: 100054
+    second: CATRigLArm1Gizmo
+  - first:
+      1: 100056
+    second: CATRigLArm21
+  - first:
+      1: 100058
+    second: CATRigLArm21Gizmo
+  - first:
+      1: 100060
+    second: CATRigLArm22
+  - first:
+      1: 100062
+    second: CATRigLArmCollarbone
+  - first:
+      1: 100064
+    second: CATRigLArmCollarboneGizmo
+  - first:
+      1: 100066
+    second: CATRigLArmPalm
+  - first:
+      1: 100068
+    second: CATRigLArmPalmGizmo
+  - first:
+      1: 100070
+    second: CATRigLLeg1
+  - first:
+      1: 100072
+    second: CATRigLLeg2
+  - first:
+      1: 100074
+    second: CATRigLLeg2Gizmo
+  - first:
+      1: 100076
+    second: CATRigLLegAnkle
+  - first:
+      1: 100078
+    second: CATRigLLegPlatform
+  - first:
+      1: 100080
+    second: CATRigPalmBone001
+  - first:
+      1: 100082
+    second: CATRigPalmBone001 1
+  - first:
+      1: 100084
+    second: CATRigPalmBone001Bone001
+  - first:
+      1: 100086
+    second: CATRigPalmBone001Bone001 1
+  - first:
+      1: 100088
+    second: CATRigPalmBone001Bone001Gizmo
+  - first:
+      1: 100090
+    second: CATRigPalmBone001Bone001Gizmo 1
+  - first:
+      1: 100092
+    second: CATRigPalmBone001Gizmo
+  - first:
+      1: 100094
+    second: CATRigPalmBone001Gizmo 1
+  - first:
+      1: 100096
+    second: CATRigPalmBone002
+  - first:
+      1: 100098
+    second: CATRigPalmBone002 1
+  - first:
+      1: 100100
+    second: CATRigPalmBone002Bone001
+  - first:
+      1: 100102
+    second: CATRigPalmBone002Bone001 1
+  - first:
+      1: 100104
+    second: CATRigPalmBone002Bone001 2
+  - first:
+      1: 100106
+    second: CATRigPalmBone002Bone001 3
+  - first:
+      1: 100108
+    second: CATRigPalmBone002Bone001 4
+  - first:
+      1: 100110
+    second: CATRigPalmBone002Bone001 5
+  - first:
+      1: 100112
+    second: CATRigPalmBone002Bone001 6
+  - first:
+      1: 100114
+    second: CATRigPalmBone002Bone001 7
+  - first:
+      1: 100116
+    second: CATRigPalmBone002Bone001Bone001
+  - first:
+      1: 100118
+    second: CATRigPalmBone002Bone001Bone001 1
+  - first:
+      1: 100120
+    second: CATRigPalmBone002Bone001Bone001 2
+  - first:
+      1: 100122
+    second: CATRigPalmBone002Bone001Bone001 3
+  - first:
+      1: 100124
+    second: CATRigPalmBone002Bone001Bone001 4
+  - first:
+      1: 100126
+    second: CATRigPalmBone002Bone001Bone001 5
+  - first:
+      1: 100128
+    second: CATRigPalmBone002Bone001Bone001 6
+  - first:
+      1: 100130
+    second: CATRigPalmBone002Bone001Bone001 7
+  - first:
+      1: 100132
+    second: CATRigPalmBone002Bone001Bone001Gizmo
+  - first:
+      1: 100134
+    second: CATRigPalmBone002Bone001Bone001Gizmo 1
+  - first:
+      1: 100136
+    second: CATRigPalmBone002Bone001Bone001Gizmo 2
+  - first:
+      1: 100138
+    second: CATRigPalmBone002Bone001Bone001Gizmo 3
+  - first:
+      1: 100140
+    second: CATRigPalmBone002Bone001Bone001Gizmo 4
+  - first:
+      1: 100142
+    second: CATRigPalmBone002Bone001Bone001Gizmo 5
+  - first:
+      1: 100144
+    second: CATRigPalmBone002Bone001Bone001Gizmo 6
+  - first:
+      1: 100146
+    second: CATRigPalmBone002Bone001Bone001Gizmo 7
+  - first:
+      1: 100148
+    second: CATRigPalmBone002Bone001Gizmo
+  - first:
+      1: 100150
+    second: CATRigPalmBone002Bone001Gizmo 1
+  - first:
+      1: 100152
+    second: CATRigPalmBone002Bone001Gizmo 2
+  - first:
+      1: 100154
+    second: CATRigPalmBone002Bone001Gizmo 3
+  - first:
+      1: 100156
+    second: CATRigPalmBone002Bone001Gizmo 4
+  - first:
+      1: 100158
+    second: CATRigPalmBone002Bone001Gizmo 5
+  - first:
+      1: 100160
+    second: CATRigPalmBone002Bone001Gizmo 6
+  - first:
+      1: 100162
+    second: CATRigPalmBone002Bone001Gizmo 7
+  - first:
+      1: 100164
+    second: CATRigPalmBone002Gizmo
+  - first:
+      1: 100166
+    second: CATRigPalmBone002Gizmo 1
+  - first:
+      1: 100168
+    second: CATRigPalmBone003
+  - first:
+      1: 100170
+    second: CATRigPalmBone003 1
+  - first:
+      1: 100172
+    second: CATRigPalmBone003Gizmo
+  - first:
+      1: 100174
+    second: CATRigPalmBone003Gizmo 1
+  - first:
+      1: 100176
+    second: CATRigPalmBone004
+  - first:
+      1: 100178
+    second: CATRigPalmBone004 1
+  - first:
+      1: 100180
+    second: CATRigPalmBone004Gizmo
+  - first:
+      1: 100182
+    second: CATRigPalmBone004Gizmo 1
+  - first:
+      1: 100184
+    second: CATRigPalmBone005
+  - first:
+      1: 100186
+    second: CATRigPalmBone005 1
+  - first:
+      1: 100188
+    second: CATRigPalmBone005Gizmo
+  - first:
+      1: 100190
+    second: CATRigPalmBone005Gizmo 1
+  - first:
+      1: 100192
+    second: CATRigRArm1
+  - first:
+      1: 100194
+    second: CATRigRArm1Gizmo
+  - first:
+      1: 100196
+    second: CATRigRArm21
+  - first:
+      1: 100198
+    second: CATRigRArm21Gizmo
+  - first:
+      1: 100200
+    second: CATRigRArm22
+  - first:
+      1: 100202
+    second: CATRigRArmCollarbone
+  - first:
+      1: 100204
+    second: CATRigRArmCollarboneGizmo
+  - first:
+      1: 100206
+    second: CATRigRArmPalm
+  - first:
+      1: 100208
+    second: CATRigRArmPalmGizmo
+  - first:
+      1: 100210
+    second: CATRigRLeg1
+  - first:
+      1: 100212
+    second: CATRigRLeg2
+  - first:
+      1: 100214
+    second: CATRigRLeg2Gizmo
+  - first:
+      1: 100216
+    second: CATRigRLegAnkle
+  - first:
+      1: 100218
+    second: CATRigRLegPlatform
+  - first:
+      1: 100220
+    second: CATRigSpine
+  - first:
+      1: 100222
+    second: CATRigSpine1
+  - first:
+      1: 100224
+    second: CATRigSpine2
+  - first:
+      1: 100226
+    second: Character001
+  - first:
+      1: 100228
+    second: Character002
+  - first:
+      1: 100230
+    second: Mesh
+  - first:
+      1: 100232
+    second: Obi-chan001
+  - first:
+      1: 100234
+    second: //RootNode
+  - first:
+      1: 100236
+    second: Particle View 001
+  - first:
+      1: 100238
+    second: Sky001
+  - first:
+      1: 100240
+    second: Spot001
+  - first:
+      1: 100242
+    second: Spot001.Target
+  - first:
+      1: 100244
+    second: Spot002
+  - first:
+      1: 100246
+    second: Spot002.Target
+  - first:
+      1: 100248
+    second: Spot003
+  - first:
+      1: 100250
+    second: Spot003.Target
+  - first:
+      4: 400000
+    second: CATRigAnkleBone001
+  - first:
+      4: 400002
+    second: CATRigAnkleBone001 1
+  - first:
+      4: 400004
+    second: CATRigAnkleBone001Gizmo
+  - first:
+      4: 400006
+    second: CATRigAnkleBone001Gizmo 1
+  - first:
+      4: 400008
+    second: CATRigHub001
+  - first:
+      4: 400010
+    second: CATRigHub001Gizmo
+  - first:
+      4: 400012
+    second: CATRigHub002
+  - first:
+      4: 400014
+    second: CATRigHub002Gizmo
+  - first:
+      4: 400016
+    second: CATRigHub003
+  - first:
+      4: 400018
+    second: CATRigHub003Bone001
+  - first:
+      4: 400020
+    second: CATRigHub003Bone001Gizmo
+  - first:
+      4: 400022
+    second: CATRigHub003Bone002
+  - first:
+      4: 400024
+    second: CATRigHub003Bone002Bone001
+  - first:
+      4: 400026
+    second: CATRigHub003Bone002Bone001 1
+  - first:
+      4: 400028
+    second: CATRigHub003Bone002Bone001Gizmo
+  - first:
+      4: 400030
+    second: CATRigHub003Bone002Bone001Gizmo 1
+  - first:
+      4: 400032
+    second: CATRigHub003Bone002Gizmo
+  - first:
+      4: 400034
+    second: CATRigHub003Bone003
+  - first:
+      4: 400036
+    second: CATRigHub003Bone003Gizmo
+  - first:
+      4: 400038
+    second: CATRigHub003Bone004
+  - first:
+      4: 400040
+    second: CATRigHub003Bone004Gizmo
+  - first:
+      4: 400042
+    second: CATRigHub003Bone007
+  - first:
+      4: 400044
+    second: CATRigHub003Bone008
+  - first:
+      4: 400046
+    second: CATRigHub003Bone009
+  - first:
+      4: 400048
+    second: CATRigHub003Bone010
+  - first:
+      4: 400050
+    second: CATRigHub003Gizmo
+  - first:
+      4: 400052
+    second: CATRigLArm1
+  - first:
+      4: 400054
+    second: CATRigLArm1Gizmo
+  - first:
+      4: 400056
+    second: CATRigLArm21
+  - first:
+      4: 400058
+    second: CATRigLArm21Gizmo
+  - first:
+      4: 400060
+    second: CATRigLArm22
+  - first:
+      4: 400062
+    second: CATRigLArmCollarbone
+  - first:
+      4: 400064
+    second: CATRigLArmCollarboneGizmo
+  - first:
+      4: 400066
+    second: CATRigLArmPalm
+  - first:
+      4: 400068
+    second: CATRigLArmPalmGizmo
+  - first:
+      4: 400070
+    second: CATRigLLeg1
+  - first:
+      4: 400072
+    second: CATRigLLeg2
+  - first:
+      4: 400074
+    second: CATRigLLeg2Gizmo
+  - first:
+      4: 400076
+    second: CATRigLLegAnkle
+  - first:
+      4: 400078
+    second: CATRigLLegPlatform
+  - first:
+      4: 400080
+    second: CATRigPalmBone001
+  - first:
+      4: 400082
+    second: CATRigPalmBone001 1
+  - first:
+      4: 400084
+    second: CATRigPalmBone001Bone001
+  - first:
+      4: 400086
+    second: CATRigPalmBone001Bone001 1
+  - first:
+      4: 400088
+    second: CATRigPalmBone001Bone001Gizmo
+  - first:
+      4: 400090
+    second: CATRigPalmBone001Bone001Gizmo 1
+  - first:
+      4: 400092
+    second: CATRigPalmBone001Gizmo
+  - first:
+      4: 400094
+    second: CATRigPalmBone001Gizmo 1
+  - first:
+      4: 400096
+    second: CATRigPalmBone002
+  - first:
+      4: 400098
+    second: CATRigPalmBone002 1
+  - first:
+      4: 400100
+    second: CATRigPalmBone002Bone001
+  - first:
+      4: 400102
+    second: CATRigPalmBone002Bone001 1
+  - first:
+      4: 400104
+    second: CATRigPalmBone002Bone001 2
+  - first:
+      4: 400106
+    second: CATRigPalmBone002Bone001 3
+  - first:
+      4: 400108
+    second: CATRigPalmBone002Bone001 4
+  - first:
+      4: 400110
+    second: CATRigPalmBone002Bone001 5
+  - first:
+      4: 400112
+    second: CATRigPalmBone002Bone001 6
+  - first:
+      4: 400114
+    second: CATRigPalmBone002Bone001 7
+  - first:
+      4: 400116
+    second: CATRigPalmBone002Bone001Bone001
+  - first:
+      4: 400118
+    second: CATRigPalmBone002Bone001Bone001 1
+  - first:
+      4: 400120
+    second: CATRigPalmBone002Bone001Bone001 2
+  - first:
+      4: 400122
+    second: CATRigPalmBone002Bone001Bone001 3
+  - first:
+      4: 400124
+    second: CATRigPalmBone002Bone001Bone001 4
+  - first:
+      4: 400126
+    second: CATRigPalmBone002Bone001Bone001 5
+  - first:
+      4: 400128
+    second: CATRigPalmBone002Bone001Bone001 6
+  - first:
+      4: 400130
+    second: CATRigPalmBone002Bone001Bone001 7
+  - first:
+      4: 400132
+    second: CATRigPalmBone002Bone001Bone001Gizmo
+  - first:
+      4: 400134
+    second: CATRigPalmBone002Bone001Bone001Gizmo 1
+  - first:
+      4: 400136
+    second: CATRigPalmBone002Bone001Bone001Gizmo 2
+  - first:
+      4: 400138
+    second: CATRigPalmBone002Bone001Bone001Gizmo 3
+  - first:
+      4: 400140
+    second: CATRigPalmBone002Bone001Bone001Gizmo 4
+  - first:
+      4: 400142
+    second: CATRigPalmBone002Bone001Bone001Gizmo 5
+  - first:
+      4: 400144
+    second: CATRigPalmBone002Bone001Bone001Gizmo 6
+  - first:
+      4: 400146
+    second: CATRigPalmBone002Bone001Bone001Gizmo 7
+  - first:
+      4: 400148
+    second: CATRigPalmBone002Bone001Gizmo
+  - first:
+      4: 400150
+    second: CATRigPalmBone002Bone001Gizmo 1
+  - first:
+      4: 400152
+    second: CATRigPalmBone002Bone001Gizmo 2
+  - first:
+      4: 400154
+    second: CATRigPalmBone002Bone001Gizmo 3
+  - first:
+      4: 400156
+    second: CATRigPalmBone002Bone001Gizmo 4
+  - first:
+      4: 400158
+    second: CATRigPalmBone002Bone001Gizmo 5
+  - first:
+      4: 400160
+    second: CATRigPalmBone002Bone001Gizmo 6
+  - first:
+      4: 400162
+    second: CATRigPalmBone002Bone001Gizmo 7
+  - first:
+      4: 400164
+    second: CATRigPalmBone002Gizmo
+  - first:
+      4: 400166
+    second: CATRigPalmBone002Gizmo 1
+  - first:
+      4: 400168
+    second: CATRigPalmBone003
+  - first:
+      4: 400170
+    second: CATRigPalmBone003 1
+  - first:
+      4: 400172
+    second: CATRigPalmBone003Gizmo
+  - first:
+      4: 400174
+    second: CATRigPalmBone003Gizmo 1
+  - first:
+      4: 400176
+    second: CATRigPalmBone004
+  - first:
+      4: 400178
+    second: CATRigPalmBone004 1
+  - first:
+      4: 400180
+    second: CATRigPalmBone004Gizmo
+  - first:
+      4: 400182
+    second: CATRigPalmBone004Gizmo 1
+  - first:
+      4: 400184
+    second: CATRigPalmBone005
+  - first:
+      4: 400186
+    second: CATRigPalmBone005 1
+  - first:
+      4: 400188
+    second: CATRigPalmBone005Gizmo
+  - first:
+      4: 400190
+    second: CATRigPalmBone005Gizmo 1
+  - first:
+      4: 400192
+    second: CATRigRArm1
+  - first:
+      4: 400194
+    second: CATRigRArm1Gizmo
+  - first:
+      4: 400196
+    second: CATRigRArm21
+  - first:
+      4: 400198
+    second: CATRigRArm21Gizmo
+  - first:
+      4: 400200
+    second: CATRigRArm22
+  - first:
+      4: 400202
+    second: CATRigRArmCollarbone
+  - first:
+      4: 400204
+    second: CATRigRArmCollarboneGizmo
+  - first:
+      4: 400206
+    second: CATRigRArmPalm
+  - first:
+      4: 400208
+    second: CATRigRArmPalmGizmo
+  - first:
+      4: 400210
+    second: CATRigRLeg1
+  - first:
+      4: 400212
+    second: CATRigRLeg2
+  - first:
+      4: 400214
+    second: CATRigRLeg2Gizmo
+  - first:
+      4: 400216
+    second: CATRigRLegAnkle
+  - first:
+      4: 400218
+    second: CATRigRLegPlatform
+  - first:
+      4: 400220
+    second: CATRigSpine
+  - first:
+      4: 400222
+    second: CATRigSpine1
+  - first:
+      4: 400224
+    second: CATRigSpine2
+  - first:
+      4: 400226
+    second: Character001
+  - first:
+      4: 400228
+    second: Character002
+  - first:
+      4: 400230
+    second: Mesh
+  - first:
+      4: 400232
+    second: Obi-chan001
+  - first:
+      4: 400234
+    second: //RootNode
+  - first:
+      4: 400236
+    second: Particle View 001
+  - first:
+      4: 400238
+    second: Sky001
+  - first:
+      4: 400240
+    second: Spot001
+  - first:
+      4: 400242
+    second: Spot001.Target
+  - first:
+      4: 400244
+    second: Spot002
+  - first:
+      4: 400246
+    second: Spot002.Target
+  - first:
+      4: 400248
+    second: Spot003
+  - first:
+      4: 400250
+    second: Spot003.Target
+  - first:
+      21: 2100000
+    second: Piel_ObiChan
+  - first:
+      21: 2100002
+    second: Pelo_ObiChan
+  - first:
+      21: 2100004
+    second: Top_ObiChan
+  - first:
+      21: 2100006
+    second: Pantalones_ObiChan
+  - first:
+      21: 2100008
+    second: Rodilleras_ObiChan
+  - first:
+      21: 2100010
+    second: Zapatillas_ObiChan
+  - first:
+      21: 2100012
+    second: Guantes_ObiChan
+  - first:
+      21: 2100014
+    second: Obichan_Mat
+  - first:
+      21: 2100016
+    second: Lengua_ObiChan
+  - first:
+      21: 2100018
+    second: Ojos_ObiChan
+  - first:
+      43: 4300000
+    second: Obi-chan001
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Obi-chan001
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.7
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1.7
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
